@@ -1,9 +1,3 @@
-title Untitled
-
-Alice->Bob: Authentication Request
-note right of Bob: Bob thinks about it
-Bob->Alice: Authentication Response
-
 # The Data Engineering Cookbook
 I get asked super often how to become a Data Engineer.
 That's why I decided to start this cookbook with all the topics you need to look into.
